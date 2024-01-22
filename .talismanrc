@@ -1,6 +1,6 @@
 fileignoreconfig:
- packages/footer/package-lock.json
- 32b5eea55cf6142b04046a6d29d84631ac8afb4391e1bc154b5db526b6befcbf
- packages/header/package-lock.json
- bb4c60dc7a3846f2500dce8906842f8ae6ade3948ff1a88fff67833176b69158
- ""
+- filename: packages/header/package-lock.json
+  checksum: bb4c60dc7a3846f2500dce8906842f8ae6ade3948ff1a88fff67833176b69158
+- filename: packages/footer/package-lock.json
+  checksum: 32b5eea55cf6142b04046a6d29d84631ac8afb4391e1bc154b5db526b6befcbf
+version: ""
